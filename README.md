@@ -6,7 +6,7 @@ Complete implementation of Wavelet Transformers with scale-aware attention for i
 
 ## 🎯 Overview
 
-Phase 2 extends the Wavelet Neural Operator framework to vision tasks by introducing **Wavelet Multi-Scale Attention (W-MSA)**, a novel attention mechanism that operates directly in the wavelet domain.
+We introduce **Wavelet Multi-Scale Attention (W-MSA)**, a novel attention mechanism that operates directly in the wavelet domain.
 
 ### Key Features
 
@@ -78,7 +78,6 @@ Phase 2 extends the Wavelet Neural Operator framework to vision tasks by introdu
 ### Installation
 
 ```bash
-cd wno_phase2
 pip install -r requirements.txt
 ```
 
