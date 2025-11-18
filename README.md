@@ -1,5 +1,4 @@
-# Wavelet Neural Operator - Phase 2
-## Wavelet Multi-Scale Attention for Vision Tasks
+## Wavelet Transformer: A Multi-Scale Attention Architecture for Vision Tasks
 
 Complete implementation of Wavelet Transformers with scale-aware attention for image classification.
 
